@@ -13,6 +13,9 @@ import android.widget.EditText;
 import android.widget.TextView;
 
 public class MainActivity extends Activity {
+
+    // writting test by another people
+    // hogeee x_x
     
     private EditText    mEditTextFrom;  //エディットテキスト
     private TextView    mTextViewTo;    //テキストビュー
